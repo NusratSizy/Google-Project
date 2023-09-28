@@ -159,11 +159,11 @@ section .footer .row ul li a{
     section{
         width: 98%;
     }
-}
 
 section .main .searchbox{
     width: 73%;
 }
 section .footer .row{
     display: block;
+}
 }
