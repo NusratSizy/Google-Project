@@ -102,7 +102,7 @@ section .main .searchbox .icon{
     padding: 12px 20px;
     justify-content: space-between;
     align-items: center;
-    /* pointer-events: none; */
+    pointer-events: none;
 
 }
 .mic {
@@ -159,11 +159,10 @@ section .footer .row ul li a{
     section{
         width: 98%;
     }
-}
-
 section .main .searchbox{
     width: 73%;
 }
 section .footer .row{
     display: block;
+}
 }
